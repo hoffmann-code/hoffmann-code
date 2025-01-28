@@ -43,6 +43,8 @@ Estudei **Programação de Jogos** na **Mctech** de 2015 a 2017, onde desenvolvi
 | **PYTHON** | ⭐⭐⭐                  |
 | **R**      | ⭐⭐                   |
 
+![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+
 ---
 
 ## 📊 Estatísticas do GitHub
