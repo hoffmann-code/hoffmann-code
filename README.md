@@ -4,11 +4,11 @@ Me chamo **Bruno Hoffmann** e sou Físico, Matemático e Analista de Sistemas ap
 ---
 
 ## 📚 Formação Acadêmica
-- **Bacharelado em Física**  
+- **Física**  
   *PUC Goiás (2017 - 2021)*  
 - **Tecnólogo em Análise e Desenvolvimento de Sistemas**  
   *Estácio (2022 - 2025)*  
-- **Licenciatura em Matemática (em curso)**  
+- **Matemática (em curso)**  
   *Estácio (2023 - atualmente)*  
 
 ---
