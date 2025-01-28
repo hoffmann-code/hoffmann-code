@@ -36,7 +36,7 @@ Estudei **Programação de Jogos** na **Mctech** de 2015 a 2017, onde desenvolvi
 | Linguagem  | Nível de Conhecimento | GIF |
 |------------|-----------------------|-----|
 | **C**      | ⭐⭐⭐⭐                | ![C GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkunR0nY7JQ7KtiLa9G7yjGsRtAZC94_qfg&s) |
-| **C++**    | ⭐⭐⭐                  | ![C++ GIF](https://media.giphy.com/media/l0MywXgEuGfC7wp9u/giphy.gif) |
+| **C++**    | ⭐⭐⭐                  | ![C++ GIF](https://i.redd.it/xxodzo30yoab1.gif) |
 | **FORTRAN 95** | ⭐⭐               | ![FORTRAN GIF](https://media.giphy.com/media/10vxdPZrLa9iQA/giphy.gif) |
 | **JAVA**   | ⭐                    | ![JAVA GIF](https://media.giphy.com/media/26u4s3ld0Cmfvc71u/giphy.gif) |
 | **JULIA**  | ⭐⭐                   | ![JULIA GIF](https://media.giphy.com/media/7kVQndPaUgZpS/giphy.gif) |
