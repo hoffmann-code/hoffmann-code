@@ -33,17 +33,15 @@ Me chamo **Bruno Hoffmann** e sou Físico, Matemático e Analista de Sistemas ap
 Estudei **Programação de Jogos** na **Mctech** de 2015 a 2017, onde desenvolvi habilidades na lógica de programação e fundamentos de design para jogos. Atualmente, trabalho com diversas linguagens de programação para atender demandas científicas e industriais.
 
 ### 🌟 Minhas Linguagens de Programação
-| Linguagem  | Nível de Conhecimento |
-|------------|-----------------------|
-| **C**      | ⭐⭐⭐⭐                |
-| **C++**    | ⭐⭐⭐                  |
-| **FORTRAN 95** | ⭐⭐               |
-| **JAVA**   | ⭐                    |
-| **JULIA**  | ⭐⭐                   |
-| **PYTHON** | ⭐⭐⭐                  |
-| **R**      | ⭐⭐                   |
-
-![Python](https://img.shields.io/badge/Python-3.9-blue?style=flat&logo=python&logoColor=white)
+| Linguagem  | Nível de Conhecimento | GIF |
+|------------|-----------------------|-----|
+| **C**      | ⭐⭐⭐⭐                | ![C GIF](https://media.giphy.com/media/3o6ZtboHvHVRqg8Da0/giphy.gif) |
+| **C++**    | ⭐⭐⭐                  | ![C++ GIF](https://media.giphy.com/media/l0MywXgEuGfC7wp9u/giphy.gif) |
+| **FORTRAN 95** | ⭐⭐               | ![FORTRAN GIF](https://media.giphy.com/media/10vxdPZrLa9iQA/giphy.gif) |
+| **JAVA**   | ⭐                    | ![JAVA GIF](https://media.giphy.com/media/26u4s3ld0Cmfvc71u/giphy.gif) |
+| **JULIA**  | ⭐⭐                   | ![JULIA GIF](https://media.giphy.com/media/7kVQndPaUgZpS/giphy.gif) |
+| **PYTHON** | ⭐⭐⭐                  | ![PYTHON GIF](https://media.giphy.com/media/xT9DPz2y1PItYxqAqg/giphy.gif) |
+| **R**      | ⭐⭐                   | ![R GIF](https://media.giphy.com/media/2a71dEIHwVsXuoZC4J/giphy.gif) |
 
 ---
 
