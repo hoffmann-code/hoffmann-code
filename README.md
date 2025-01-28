@@ -35,16 +35,15 @@ Estudei **Programação de Jogos** na **Mctech** de 2015 a 2017, onde desenvolvi
 ### 🌟 Minhas Linguagens de Programação
 | Linguagem  | Nível de Conhecimento | GIF |
 |------------|-----------------------|-----|
-| **C**      | ⭐⭐⭐⭐                | ![C GIF](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkunR0nY7JQ7KtiLa9G7yjGsRtAZC94_qfg&s) |
-| **C++**    | ⭐⭐⭐                  | ![C++ GIF](https://i.redd.it/xxodzo30yoab1.gif) |
-| **FORTRAN 95** | ⭐⭐               | ![FORTRAN GIF](https://media.giphy.com/media/10vxdPZrLa9iQA/giphy.gif) |
-| **JAVA**   | ⭐                    | ![JAVA GIF](https://media.giphy.com/media/26u4s3ld0Cmfvc71u/giphy.gif) |
-| **JULIA**  | ⭐⭐                   | ![JULIA GIF](https://media.giphy.com/media/7kVQndPaUgZpS/giphy.gif) |
-| **PYTHON** | ⭐⭐⭐                  | ![PYTHON GIF](https://media.giphy.com/media/xT9DPz2y1PItYxqAqg/giphy.gif) |
-| **R**      | ⭐⭐                   | ![R GIF](https://media.giphy.com/media/2a71dEIHwVsXuoZC4J/giphy.gif) |
+| **C**      | ⭐⭐⭐⭐                | <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVkunR0nY7JQ7KtiLa9G7yjGsRtAZC94_qfg&s" width="200" height="200"> |
+| **C++**    | ⭐⭐⭐                  | <img src="https://i.redd.it/xxodzo30yoab1.gif" width="200" height="200"> |
+| **FORTRAN 95** | ⭐⭐               | <img src="https://media.tenor.com/pPKOYQpTO8AAAAAM/monkey-developer.gif" width="200" height="200">|
+| **JAVA**   | ⭐                    | <img src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif" width="200" height="200"> |
+| **JULIA**  | ⭐⭐                   | <img src="https://juliagraphics.github.io/Luxor.jl/stable/assets/figures/juliaspinner.gif" width="200" height="200"> |
+| **PYTHON** | ⭐⭐⭐                  | <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b9527g1wk7bn321xsru2zww615vz8nwhn89l0v7hg64a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200" height="200"> |
+| **R**      | ⭐⭐                   | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fr-programming&psig=AOvVaw2-fyawut1VSMjGA3La2GMp&ust=1738161303080000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDS9MnRmIsDFQAAAAAdAAAAABAe" width="200" height="200"> |
 
 ---
-
 
 ## 📊 Estatísticas do GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hoffmann-code&show_icons=true&theme=radical)
