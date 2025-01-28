@@ -41,7 +41,7 @@ Estudei **Programação de Jogos** na **Mctech** de 2015 a 2017, onde desenvolvi
 | **JAVA**   | ⭐                    | <img src="https://mirbozorgi.com/wp-content/uploads/2020/11/skeleton-animation_300.gif" width="200" height="200"> |
 | **JULIA**  | ⭐⭐                   | <img src="https://juliagraphics.github.io/Luxor.jl/stable/assets/figures/juliaspinner.gif" width="200" height="200"> |
 | **PYTHON** | ⭐⭐⭐                  | <img src="https://media1.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?cid=6c09b9527g1wk7bn321xsru2zww615vz8nwhn89l0v7hg64a&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="200" height="200"> |
-| **R**      | ⭐⭐                   | <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fr-programming&psig=AOvVaw2-fyawut1VSMjGA3La2GMp&ust=1738161303080000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCJDS9MnRmIsDFQAAAAAdAAAAABAe" width="200" height="200"> |
+| **R**      | ⭐⭐                   | <img src="https://cdn.myportfolio.com/45214904-6a61-4e23-98d6-b140f8654a40/cdb9fc40-c6f2-4f7c-8b97-e65775edd9e3_rw_600.gif?h=55aa0d33e84b3dd200d095a3222da933" width="200" height="200"> |
 
 ---
 
